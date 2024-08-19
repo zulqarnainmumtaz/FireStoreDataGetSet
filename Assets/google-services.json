@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961826123469",
+    "project_id": "remotedatasetget",
+    "storage_bucket": "remotedatasetget.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961826123469:android:c1b67d8dd54ed3b74f4384",
+        "android_client_info": {
+          "package_name": "com.nicesolution.remotedata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-9zmh9sRiFRWRuThhSMVPufyR1LWbkMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
